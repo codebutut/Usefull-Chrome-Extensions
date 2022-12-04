@@ -1,7 +1,7 @@
 # Usefull-Chrome-Extensions
 Google Chrome extensions to give you premium features.
 
-#Instructions
+# Instructions
 1. Download the file.
 2. Extract
 3. Go to chrome://extensions/
