@@ -10,5 +10,5 @@ Google Chrome extensions to give you premium features.
 
 # Note
 1. I'm not maintainer for this extensions.
-2. This extensions taken from "blueagler" go to https://github.com/blueagler?tab=repositories for complete and updated version.
+2. This extensions is taken from "blueagler" go to https://github.com/blueagler?tab=repositories for complete and updated version.
 3. Appreciate his hard work by giving starts to his repo or send him tips to buy coffe.
